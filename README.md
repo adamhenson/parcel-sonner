@@ -1,4 +1,4 @@
-# Sonner + Parcel
+# Parcel + Sonner
 
 A minimal reproducible example to demonstrate a build issue.
 
